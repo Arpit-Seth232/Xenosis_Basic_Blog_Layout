@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
 
 This project uses Bootstrap 5 for the responsive design and components.
 
-1. Bootstrap CSS: <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"></link>
+1. Bootstrap CSS: '<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">'
 2. Bootstrap JS: <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 
 ## License
